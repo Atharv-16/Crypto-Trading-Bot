@@ -1,7 +1,5 @@
 # Crypto-Trading-Bot
 
-
-
 # Binance Trading Bot
 
 The **Binance Trading Bot** was developed as an automated trading solution designed to seize minor bullish movements detected in Heikin Ashi candlestick charts. The bot specialized in identifying favorable market conditions, executing sell orders when a profitable threshold was met, and optimizing cryptocurrency trading strategies.
@@ -18,6 +16,14 @@ The **Binance Trading Bot** operated using a sophisticated algorithm meticulousl
 
 3. **Cryptocurrency Selection:** Traders could customize the bot by selecting a specific cryptocurrency to target. This tailored approach allowed the bot to focus its trading strategy on a singular asset, enhancing its ability to optimize trading outcomes.
 
+## Visual Analysis
+
+The bot's functionality is visually exemplified through the following images:
+
+![Heikin Ashi Sentiment](2_heikin-ashi-sentiment.png)
+
+![Heikin Ashi Analysis](mde-5150-heikin-ashi-3.png)
+
 ## Project Purpose
 
 The core objective of the **Binance Trading Bot** was to streamline cryptocurrency trading by automating the detection and exploitation of minor bullish price movements. The bot's ability to initiate sell orders based on predefined profit targets provided traders with a systematic framework to enhance their trading strategies.
@@ -29,6 +35,8 @@ While the **Binance Trading Bot** primarily concentrated on capturing minor bull
 ## Note on Visualization
 
 The **Binance Trading Bot** was designed to operate within the realm of trading algorithms and did not involve real-time visualization of its activities. The images provided are for illustrative purposes and serve as examples to depict concepts related to Heikin Ashi analysis and market trends.
+
+The **Binance Trading Bot** project represents a significant stride in harnessing algorithmic trading to optimize trading efficacy. Its modular architecture ensures potential for ongoing innovation within the dynamic cryptocurrency market landscape.
 
 `WazirX price notifier` was a code written to alert the sharp rise and fall in the prices of all cryptocurrencies listed on the exchnage. It used to show percentage change and corresponding crypto's name who had increased/decreased more than certain % in under certain time interval with the use of windows notifier.
 
