@@ -32,11 +32,7 @@ The core objective of the **Binance Trading Bot** was to streamline cryptocurren
 
 While the **Binance Trading Bot** primarily concentrated on capturing minor bullish runs, its potential for evolution remains promising. Future enhancements could encompass the integration of additional technical indicators, dynamic risk management protocols, and adaptability to diverse market conditions. As the cryptocurrency landscape continues to evolve, the bot's adaptability will continue to be a pivotal feature.
 
-## Note on Visualization
 
-The **Binance Trading Bot** was designed to operate within the realm of trading algorithms and did not involve real-time visualization of its activities. The images provided are for illustrative purposes and serve as examples to depict concepts related to Heikin Ashi analysis and market trends.
-
-The **Binance Trading Bot** project represents a significant stride in harnessing algorithmic trading to optimize trading efficacy. Its modular architecture ensures potential for ongoing innovation within the dynamic cryptocurrency market landscape.
 
 `WazirX price notifier` was a code written to alert the sharp rise and fall in the prices of all cryptocurrencies listed on the exchnage. It used to show percentage change and corresponding crypto's name who had increased/decreased more than certain % in under certain time interval with the use of windows notifier.
 
